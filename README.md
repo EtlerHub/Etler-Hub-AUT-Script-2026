@@ -17,7 +17,7 @@
 ## Get Started
 
 **1.** Get your `script_key` from our Discord → **[discord.gg/9cvGSJXQ5n](https://discord.gg/9cvGSJXQ5n)**
-**2.** Paste the code below into your executor, replacing `YOUR_KEY_HERE` with your key.
+**2.** Paste the script below into your executor, replacing `YOUR_KEY_HERE` with your key.
 **3.** Execute in-game and the hub loads instantly.
 
 ```lua
@@ -32,19 +32,20 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/b9e4e383a3fc0e
 ## Features
 
 ### Hands-Free Trait Farming (Kaitun)
-Drop in a config and walk away. Etler auto-swaps your **stands & specs** and farms your **exact target traits** on its own — and Discord pings you the moment a **Godly** or **Hexed** trait lands.
+Drop in a config and walk away. Etler Hub auto-swaps your **stands & specs** and farms your **exact target traits** on its own — and Discord pings you the moment a **Godly** or **Hexed** trait lands.
 
 ### Aerial & Ground Auto-Farm
-Melt **mobs and bosses** on autopilot with built-in combat assists — including a live **parry engine for the Camellite Golem** that normal players can't even solo.
+Melt **mobs and bosses** on autopilot with built-in combat assists — including a live **parry engine for the Camellite Golem** that normal players are even struggling to solo.
 
 ### Full Economy Automation
-Auto-farm **Khronos Lab reputation**, claim **rank rewards**, run **Boundless Tower**, **recycle & forge skins**, mine **Camellite**, and auto-sell the junk. Your currency grows while you're offline.
+Auto-farm **Khronos Lab reputation**, claim **rank rewards**, **recycle & forge skins**, mine **Camellite**, and auto-sell the junk. 
+Your currency grows while you're offline.
 
 ### Everything Else, Automated
 **Auto-Stats · Auto-Traits · Quests · Area Teleports · Combat Helpers · Physics Overrides · FPS & Performance tuning · Save/Load Configs · Quick Menus** — and more added constantly.
 
 ### Built to Last
-Fully **obfuscated & optimized** to run smooth, even AFK overnight. Regular updates, active support.
+Fully **obfuscated & optimized** to run smoothly, even AFK overnight. Regular updates, active support.
 
 ---
 
@@ -65,7 +66,7 @@ Fully **obfuscated & optimized** to run smooth, even AFK overnight. Regular upda
 ## FAQ
 
 **Is Etler Hub free?**
-The full hub is a premium script — get a key from the **[Discord](https://discord.gg/9cvGSJXQ5n)**. A free version is also available there.
+The full hub is a premium script — get a key from the **[Discord](https://discord.gg/9cvGSJXQ5n)**. Trial keys are available there.
 
 **Which executors are supported?**
 Any modern executor with `loadstring` + `game:HttpGet`. If your executor runs Luarmor scripts, it runs Etler Hub.
