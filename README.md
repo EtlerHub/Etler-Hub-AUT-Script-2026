@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Get Started
+## Get Started
 
 **1.** Get your `script_key` from our Discord → **[discord.gg/9cvGSJXQ5n](https://discord.gg/9cvGSJXQ5n)**
 **2.** Paste the code below into your executor, replacing `YOUR_KEY_HERE` with your key.
@@ -25,30 +25,30 @@ script_key="YOUR_KEY_HERE";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/b9e4e383a3fc0ef274dbd6b1c1ee81b1.lua"))()
 ```
 
-> 💠 **Don't have a key yet?** Join the **[Discord](https://discord.gg/9cvGSJXQ5n)** — keys, setup help, and free giveaways are all there.
+> **Don't have a key yet?** Join the **[Discord](https://discord.gg/9cvGSJXQ5n)** — keys, setup help, and free giveaways are all there.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🩸 Hands-Free Trait Farming (Kaitun)
+### Hands-Free Trait Farming (Kaitun)
 Drop in a config and walk away. Etler auto-swaps your **stands & specs** and farms your **exact target traits** on its own — and Discord pings you the moment a **Godly** or **Hexed** trait lands.
 
-### ⚔️ Aerial & Ground Auto-Farm
+### Aerial & Ground Auto-Farm
 Melt **mobs and bosses** on autopilot with built-in combat assists — including a live **parry engine for the Camellite Golem** that normal players can't even solo.
 
-### 💎 Full Economy Automation
+### Full Economy Automation
 Auto-farm **Khronos Lab reputation**, claim **rank rewards**, run **Boundless Tower**, **recycle & forge skins**, mine **Camellite**, and auto-sell the junk. Your currency grows while you're offline.
 
-### 🛠️ Everything Else, Automated
+### Everything Else, Automated
 **Auto-Stats · Auto-Traits · Quests · Area Teleports · Combat Helpers · Physics Overrides · FPS & Performance tuning · Save/Load Configs · Quick Menus** — and more added constantly.
 
-### 🔒 Built to Last
+### Built to Last
 Fully **obfuscated & optimized** to run smooth, even AFK overnight. Regular updates, active support.
 
 ---
 
-## 📸 Showcase
+## Showcase
 
 <div align="center">
 
@@ -56,13 +56,13 @@ Fully **obfuscated & optimized** to run smooth, even AFK overnight. Regular upda
 <!-- ![Etler Hub UI](https://your-image-link.png) -->
 <!-- ![Trait Farm Proof](https://your-image-link.png) -->
 
-*🎬 Full showcase & demos in our **[Discord](https://discord.gg/9cvGSJXQ5n)**.*
+*Full showcase & demos in our **[Discord](https://discord.gg/9cvGSJXQ5n)**.*
 
 </div>
 
 ---
 
-## ❓ FAQ
+## FAQ
 
 **Is Etler Hub free?**
 The full hub is a premium script — get a key from the **[Discord](https://discord.gg/9cvGSJXQ5n)**. A free version is also available there.
@@ -78,11 +78,11 @@ It's obfuscated, optimized, and updated regularly. Follow the Discord for update
 
 ---
 
-## 💬 Community & Support
+## Community & Support
 
 <div align="center">
 
-### [→ Join the Etler Hub Discord ←](https://discord.gg/9cvGSJXQ5n)
+### [Join the Etler Hub Discord](https://discord.gg/9cvGSJXQ5n)
 
 Keys · Setup help · Updates · Giveaways · Showcase
 
