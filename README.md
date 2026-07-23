@@ -53,9 +53,7 @@ Fully **obfuscated & optimized** to run smoothly, even AFK overnight. Regular up
 
 <div align="center">
 
-<!-- Replace these with your real screenshots / thumbnails -->
-<!-- ![Etler Hub UI](https://your-image-link.png) -->
-<!-- ![Trait Farm Proof](https://your-image-link.png) -->
+<img src="hub-ui.png" alt="Etler Hub UI running in A Universal Time" width="720">
 
 *Full showcase & demos in our **[Discord](https://discord.gg/9cvGSJXQ5n)**.*
 
