@@ -69,7 +69,7 @@ Fully **obfuscated & optimized** to run smoothly, even AFK overnight. Regular up
 It's a premium script — but you can try the **complete hub free for 24 hours**. Open a ticket in the **[Discord](https://discord.gg/9cvGSJXQ5n)** for a trial key and you're testing the full premium build, nothing locked.
 
 **Which executors are supported?**
-Any modern executor with `loadstring` + `game:HttpGet`. If your executor runs Luarmor scripts, it runs Etler Hub.
+Any executor with solid sUNC that runs Luarmor scripts. Confirmed working: **Potassium** and **Volt** (paid), plus **Madium**, **Delta**, and **Project Real** (free). **Wave** and **Cosmic** should work but aren't fully tested. Unsure about yours? Check its sUNC on **[weao.xyz](https://weao.xyz)** — if it runs Luarmor scripts, it runs Etler Hub.
 
 **Nothing happens when I execute — what's wrong?**
 Almost always a `script_key` issue. Make sure the key line sits **above** the loader line, and grab a fresh key from the **[Discord](https://discord.gg/9cvGSJXQ5n)**.
