@@ -71,8 +71,11 @@ It's a premium script — but you can try the **complete hub free for 24 hours**
 **Which executors are supported?**
 Any executor with solid sUNC that runs Luarmor scripts. Confirmed working: **Potassium** and **Volt** (paid), plus **Madium**, **Delta**, and **Project Real** (free). **Wave** and **Cosmic** should work but aren't fully tested. Unsure about yours? Check its sUNC on **[weao.xyz](https://weao.xyz)** — if it runs Luarmor scripts, it runs Etler Hub.
 
-**Nothing happens when I execute — what's wrong?**
-Almost always a `script_key` issue. Make sure the key line sits **above** the loader line, and grab a fresh key from the **[Discord](https://discord.gg/9cvGSJXQ5n)**.
+**I get kicked when I execute (or "invalid key")**
+That's a `script_key` problem — the loader kicks you if the key is missing, wrong, or expired. Put your key in the `script_key` line **above** the loader, paste it exactly with no extra spaces, and remember a trial key only lasts 24h. Grab a fresh one from the **[Discord](https://discord.gg/9cvGSJXQ5n)**.
+
+**Nothing happens at all — no hub, no kick**
+If you're not kicked, your key is fine. Either the executor didn't inject — re-execute after you're fully in-game — or it doesn't have the sUNC to run Luarmor scripts. Check yours on **[weao.xyz](https://weao.xyz)**.
 
 **Is it safe / updated?**
 It's obfuscated, optimized, and updated regularly. Follow the Discord for update pings.
