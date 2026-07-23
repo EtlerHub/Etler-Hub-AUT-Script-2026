@@ -16,9 +16,9 @@
 
 ## Get Started
 
-**1.** Get your `script_key` from our Discord → **[discord.gg/9cvGSJXQ5n](https://discord.gg/9cvGSJXQ5n)**
-**2.** Paste the script below into your executor, replacing `YOUR_KEY_HERE` with your key.
-**3.** Execute in-game and the hub loads instantly.
+1. Get your `script_key` from our Discord → **[discord.gg/9cvGSJXQ5n](https://discord.gg/9cvGSJXQ5n)**
+2. Paste the script below into your executor, replacing `YOUR_KEY_HERE` with your key.
+3. Execute in-game and the hub loads instantly.
 
 ```lua
 script_key="YOUR_KEY_HERE";
@@ -61,6 +61,7 @@ Fully **obfuscated & optimized** to run smoothly, even AFK overnight. Regular up
 <img src="trait-proof.png" alt="Discord webhook alerts showing traits secured by the Trait Kaitun" width="440">
 
 **Two traits secured over two hours — nobody at the keyboard.**
+
 The Kaitun webhook alerts you the moment a target trait lands, hexed or not.
 
 *Full showcase & demos in our **[Discord](https://discord.gg/9cvGSJXQ5n)**.*
@@ -72,18 +73,23 @@ The Kaitun webhook alerts you the moment a target trait lands, hexed or not.
 ## FAQ
 
 **Is Etler Hub free?**
+
 It's a premium script — but you can try the **complete hub free for 24 hours**. Open a ticket in the **[Discord](https://discord.gg/9cvGSJXQ5n)** for a trial key and you're testing the full premium build, nothing locked.
 
 **Which executors are supported?**
+
 Any executor with solid sUNC that runs Luarmor scripts. Confirmed working: **Potassium** and **Volt** (paid), plus **Madium**, **Delta**, and **Project Real** (free). **Wave** and **Cosmic** should work but aren't fully tested. Unsure about yours? Check its sUNC on **[weao.xyz](https://weao.xyz)** — if it runs Luarmor scripts, it runs Etler Hub.
 
 **I get kicked when I execute (or "invalid key")**
+
 That's a `script_key` problem — the loader kicks you if the key is missing, wrong, or expired. Put your key in the `script_key` line **above** the loader, paste it exactly with no extra spaces, and remember a trial key only lasts 24h. Grab a fresh one from the **[Discord](https://discord.gg/9cvGSJXQ5n)**.
 
 **Nothing happens at all — no hub, no kick**
+
 If you're not kicked, your key is fine. Either the executor didn't inject — re-execute after you're fully in-game — or it doesn't have the sUNC to run Luarmor scripts. Check yours on **[weao.xyz](https://weao.xyz)**.
 
 **Is it safe / updated?**
+
 It's obfuscated, optimized, and updated regularly. Follow the Discord for update pings.
 
 ---
