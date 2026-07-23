@@ -62,7 +62,7 @@ Fully **obfuscated & optimized** to run smoothly, even AFK overnight. Regular up
 <img src="trait-proof.png" alt="Discord webhook alerts showing traits secured by the Trait Kaitun" width="440">
 
 **Two traits secured over two hours — nobody at the keyboard.**
-The Kaitun pings your Discord the moment a target trait lands, hexed or not. Your username is hidden behind a spoiler, so a shared channel never exposes who's farming.
+The Kaitun pings your Discord the moment a target trait lands, hexed or not.
 
 *Full showcase & demos in our **[Discord](https://discord.gg/9cvGSJXQ5n)**.*
 
