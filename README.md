@@ -5,10 +5,10 @@
 ### An autonomous AUT script for Roblox — hands-free Trait Farming (Kaitun), Auto-Farm, Boundless Tower & more.
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20%26%20Get%20Key-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9cvGSJXQ5n)
-[![Status](https://img.shields.io/badge/Status-Undetected%20%26%20Updated-ff2d8c?style=for-the-badge)](https://discord.gg/9cvGSJXQ5n)
+[![Status](https://img.shields.io/badge/Status-Actively%20Updated-ff2d8c?style=for-the-badge)](https://discord.gg/9cvGSJXQ5n)
 ![Game](https://img.shields.io/badge/Game-A%20Universal%20Time-8a2be2?style=for-the-badge)
 
-**Set one config. Walk away. Set the config. Log off. The grind runs itself.**
+**Set the config. Log off. The grind runs itself.**
 
 </div>
 
