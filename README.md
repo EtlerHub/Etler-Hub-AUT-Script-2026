@@ -93,12 +93,8 @@ Keys · Setup help · Updates · Giveaways · Showcase
 
 <div align="center">
 
-<sub>
-
 **Keywords:** AUT Script · A Universal Time Script · AUT Hub · AUT Auto Farm · AUT Trait Farm · AUT Kaitun · AUT Script 2026 · Boundless Tower Script · AUT Auto Trait · A Universal Time Hub · Roblox AUT Script · AUT Stand Farm · AUT Godly Trait · AUT Hexed Trait
 
-*Etler Hub is a third-party tool for A Universal Time. Not affiliated with or endorsed by the game's developers or Roblox.*
-
-</sub>
+<sub>*Etler Hub is a third-party tool for A Universal Time. Not affiliated with or endorsed by the game's developers or Roblox.*</sub>
 
 </div>
