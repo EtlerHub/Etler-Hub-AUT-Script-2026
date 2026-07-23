@@ -25,7 +25,7 @@ script_key="YOUR_KEY_HERE";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/b9e4e383a3fc0ef274dbd6b1c1ee81b1.lua"))()
 ```
 
-> **Don't have a key yet?** Join the **[Discord](https://discord.gg/9cvGSJXQ5n)** — keys, setup help, and free giveaways are all there.
+> **Don't have a key yet?** Join the **[Discord](https://discord.gg/9cvGSJXQ5n)** — free 24h trial keys, setup help, and giveaways are all there.
 
 ---
 
@@ -35,7 +35,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/b9e4e383a3fc0e
 Drop in a config and walk away. Etler Hub auto-swaps your **stands & specs** and farms your **exact target traits** on its own — and Discord pings you the moment a **Godly** or **Hexed** trait lands.
 
 ### Aerial & Ground Auto-Farm
-Melt **mobs and bosses** on autopilot with built-in combat assists — including a live **parry engine for the Camellite Golem** that normal players are even struggling to solo.
+Melt **mobs and bosses** on autopilot with built-in combat assists — including a live **parry engine for the Camellite Golem** that most players can't solo.
 
 ### Full Economy Automation
 Auto-farm **Khronos Lab reputation**, claim **rank rewards**, **recycle & forge skins**, mine **Camellite**, and auto-sell the junk. 
@@ -66,7 +66,7 @@ Fully **obfuscated & optimized** to run smoothly, even AFK overnight. Regular up
 ## FAQ
 
 **Is Etler Hub free?**
-The full hub is a premium script — get a key from the **[Discord](https://discord.gg/9cvGSJXQ5n)**. Trial keys are available there.
+It's a premium script — but you can try the **complete hub free for 24 hours**. Open a ticket in the **[Discord](https://discord.gg/9cvGSJXQ5n)** for a trial key and you're testing the full premium build, nothing locked.
 
 **Which executors are supported?**
 Any modern executor with `loadstring` + `game:HttpGet`. If your executor runs Luarmor scripts, it runs Etler Hub.
