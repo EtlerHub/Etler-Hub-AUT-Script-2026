@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.jpg" alt="Etler Hub — A Universal Time script" width="640">
+
 # Etler Hub — A Universal Time (AUT) Script | 2026
 
 ### An autonomous AUT script for Roblox — hands-free Trait Farming (Kaitun), Auto-Farm, Boundless Tower & more.
