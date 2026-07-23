@@ -55,6 +55,15 @@ Fully **obfuscated & optimized** to run smoothly, even AFK overnight. Regular up
 
 <img src="hub-ui.png" alt="Etler Hub UI running in A Universal Time" width="720">
 
+**The hub, in-game.**
+
+<br>
+
+<img src="trait-proof.png" alt="Discord webhook alerts showing traits secured by the Trait Kaitun" width="440">
+
+**Two traits secured over two hours — nobody at the keyboard.**
+The Kaitun pings your Discord the moment a target trait lands, hexed or not. Your username is hidden behind a spoiler, so a shared channel never exposes who's farming.
+
 *Full showcase & demos in our **[Discord](https://discord.gg/9cvGSJXQ5n)**.*
 
 </div>
