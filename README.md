@@ -32,13 +32,13 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/b9e4e383a3fc0e
 ## Features
 
 ### Hands-Free Trait Farming (Kaitun)
-Drop in a config and walk away. Etler Hub auto-swaps your **stands & specs** and farms your **exact target traits** on its own — and a Discord webhook announces to you the moment a **Godly** or **Hexed** trait lands.
+Drop in a config and walk away. Etler Hub auto-swaps your **stands & specs** and farms your **exact target traits** on its own — and a Discord webhook alerts you the moment a **Godly** or **Hexed** trait lands.
 
 ### Aerial & Ground Auto-Farm
 Melt **mobs and bosses** on autopilot with built-in combat assists — including a live **parry engine for the Camellite Golem** that most players can't solo.
 
 ### Full Economy Automation
-Auto-farm **Khronos Lab reputation**, claim **rank rewards**, **recycle & forge skins**, mine **Camellite**, and item features.
+Auto-farm **Khronos Lab reputation**, claim **rank rewards**, **recycle & forge skins**, mine **Camellite**, and auto-sell the junk.
 
 ### Everything Else, Automated
 **Auto-Stats · Auto-Traits · Quests · Area Teleports · Combat Helpers · Physics Overrides · FPS & Performance tuning · Save/Load Configs · Quick Menus** — and more added constantly.
@@ -61,7 +61,7 @@ Fully **obfuscated & optimized** to run smoothly, even AFK overnight. Regular up
 <img src="trait-proof.png" alt="Discord webhook alerts showing traits secured by the Trait Kaitun" width="440">
 
 **Two traits secured over two hours — nobody at the keyboard.**
-The Kaitun webhook announces to you the moment a target trait lands, hexed or not.
+The Kaitun webhook alerts you the moment a target trait lands, hexed or not.
 
 *Full showcase & demos in our **[Discord](https://discord.gg/9cvGSJXQ5n)**.*
 
