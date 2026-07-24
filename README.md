@@ -66,6 +66,10 @@ Fully **obfuscated & optimized** to run smoothly, even AFK overnight. Regular up
 
 The Kaitun webhook alerts you the moment a target trait lands, hexed or not.
 
+<br>
+
+**Watch it run:** [Auto Lost Crate + Auto Camellite](https://streamable.com/x1goyq) · [Camellite Golem Auto-Parry](https://streamable.com/kkiav4)
+
 *Full showcase & demos in our **[Discord](https://discord.gg/9cvGSJXQ5n)**.*
 
 </div>
